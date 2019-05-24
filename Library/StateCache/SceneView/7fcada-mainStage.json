@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":false,"showMaterialUpdate":false,"showSkybox":true,"showFlares":false,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":0.0,"y":0.0,"z":0.0},"rotation":{"x":-0.07647939771413803,"y":0.9085263013839722,"z":-0.19109171628952027,"w":-0.3636136054992676},"size":23.334524154663087,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":false,"showMaterialUpdate":false,"showSkybox":true,"showFlares":false,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":-21.534969329833986,"y":3.4352707862854006,"z":-17.628864288330079},"rotation":{"x":-0.11611860245466232,"y":-0.022066567093133928,"z":0.00257982243783772,"w":-0.9929869174957275},"size":4.9130730628967289,"orthographic":false}
+>>>>>>> origin/服部＿playerBehavior
